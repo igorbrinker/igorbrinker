@@ -20,6 +20,8 @@
 [![Pandas](https://img.shields.io/badge/Framework-Pandas-purple?style=flat-square&logo=Pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Keras](https://img.shields.io/badge/Framework-Keras-red?style=flat-square&logo=Keras&logoColor=white)](https://keras.io/)
 
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=igorbrinker)
+
 
 
 
