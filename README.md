@@ -14,10 +14,10 @@
 
 [![Python](https://img.shields.io/badge/Language-Python-teal?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Language-Java-orange?style=flat-square&logo=java&logoColor=white)](https://www.java.com/pt-BR/)
-[![C](https://img.shields.io/badge/Language-C-blue?style=flat-square&logo=C&logoColor=white)](https://www.djangoproject.com/)
+[![C](https://img.shields.io/badge/Language-C-blue?style=flat-square&logo=C&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Django](https://img.shields.io/badge/Framework-Django-green?style=flat-square&logo=Django&logoColor=white)](https://www.djangoproject.com/)
-[![Pandas](https://img.shields.io/badge/Framework-Pandas-purple?style=flat-square&logo=Pandas&logoColor=white)](https://www.djangoproject.com/)
-[![Keras](https://img.shields.io/badge/Framework-Keras-red?style=flat-square&logo=Keras&logoColor=white)](https://www.djangoproject.com/)
+[![Pandas](https://img.shields.io/badge/Framework-Pandas-purple?style=flat-square&logo=Pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Keras](https://img.shields.io/badge/Framework-Keras-red?style=flat-square&logo=Keras&logoColor=white)](https://keras.io/)
 
 
 
