@@ -5,10 +5,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-IgorBrinker-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igorbrinker/)
 
-[![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=Windows&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows)
-[![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 [![Arduino](https://img.shields.io/badge/Arduino-blue?style=flat-square&logo=aRDUINO&logoColor=white)](https://www.arduino.cc/)
 [![Raspberry Pi](https://camo.githubusercontent.com/17b6032a55bb14ed30116823fa500b769a8f4a2f114cebe916284b681f3602ba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52617370626572727925323050692d4335314134413f7374796c653d666c61742d737175617265266c6f676f3d5261737062657272792d5069)](https://www.raspberrypi.org/)
+[![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=Windows&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows)
+[![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)                 
 [![DevOps](https://img.shields.io/badge/DevOps-Azure-blue?style=flat-square&logo=windows&Color=white)](https://azure.microsoft.com/pt-br/services/devops/)
 
