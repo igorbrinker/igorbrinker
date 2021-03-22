@@ -1,6 +1,5 @@
 # :8ball::man_technologist: 𝗪𝗘𝗟𝗖𝗢𝗠𝗘 𝗧𝗢 𝗠𝗬 𝗣𝗥𝗢𝗙𝗜𝗟𝗘  :man_technologist: :8ball:
 
-
 [![Species](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens)
 [![Status](https://img.shields.io/badge/Status-Stable-success?style=flat-square&logo=gravatar&logoColor=white)](https://en.wikipedia.org/wiki/Life)
 
@@ -8,7 +7,7 @@
 
 [![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=Windows&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows)
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
-[![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)                 
 [![DevOps](https://img.shields.io/badge/DevOps-Azure-blue?style=flat-square&logo=windows&Color=white)](https://azure.microsoft.com/pt-br/services/devops/)
 
 [![Arduino](https://img.shields.io/badge/Arduino-blue?style=flat-square&logo=aRDUINO&logoColor=white)](https://www.arduino.cc/)
@@ -25,7 +24,7 @@
 
 </br>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=igorbrinker&theme=react&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=igorbrinker&theme=react&show_icons=true) <img border="0" alt="solaire" src="https://github.com/igorbrinker/igorbrinker/blob/main/solaire.gif" width="150" height="160">
 </br></br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorbrinker&layout=compact&theme=react&show_icons=true)
