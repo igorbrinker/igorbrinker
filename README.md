@@ -20,7 +20,15 @@
 [![Pandas](https://img.shields.io/badge/Framework-Pandas-purple?style=flat-square&logo=Pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Keras](https://img.shields.io/badge/Framework-Keras-red?style=flat-square&logo=Keras&logoColor=white)](https://keras.io/)
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=igorbrinker)
+</br>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=igorbrinker&theme=dark&show_icons=true)
+</br></br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorbrinker&layout=compact&theme=dark&show_icons=true)
+</br></br>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=igorbrinker)
 
 
 
