@@ -22,10 +22,10 @@
 
 </br>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=igorbrinker&theme=dark&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=igorbrinker&theme=radical&show_icons=true)
 </br></br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorbrinker&layout=compact&theme=dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorbrinker&layout=compact&theme=radical&show_icons=true)
 </br></br>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=igorbrinker)
