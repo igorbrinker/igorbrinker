@@ -16,7 +16,7 @@
 [![Java](https://img.shields.io/badge/Language-Java-orange?style=flat-square&logo=java&logoColor=white)](https://www.java.com/pt-BR/)
 [![C](https://img.shields.io/badge/Language-C-blue?style=flat-square&logo=C&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/Language-C++-blue?style=flat-square&logo=C&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![JS](https://img.shields.io/badge/Language-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)](https://www.javascript.com/))
+[![JS](https://img.shields.io/badge/Language-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)](https://www.javascript.com/)
 
 [![Django](https://img.shields.io/badge/Framework-Django-green?style=flat-square&logo=Django&logoColor=white)](https://www.djangoproject.com/)
 [![Pandas](https://img.shields.io/badge/Framework-Pandas-purple?style=flat-square&logo=Pandas&logoColor=white)](https://pandas.pydata.org/)
