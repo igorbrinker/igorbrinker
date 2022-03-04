@@ -4,7 +4,6 @@
 - 📊 Currently Working with Data Science and Websites development for the Real Estate Market;
 - 🐱‍💻 Big Data is love Big Data is life
 </br>
-##
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=igorbrinker&theme=react&show_icons=true)
 </br></br>
