@@ -5,7 +5,8 @@
 - 🐱‍💻 Big Data is love Big Data is life
 </br>
 ##
-![Stats](https://github-readme-stats.vercel.app/api?username=igorbrinker&theme=react&show_icons=true) <img border="0" alt="solaire" src="https://github.com/igorbrinker/igorbrinker/blob/main/solaire.gif" width="150" height="160">##
+
+![Stats](https://github-readme-stats.vercel.app/api?username=igorbrinker&theme=react&show_icons=true)
 </br></br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorbrinker&layout=compact&theme=react&show_icons=true)
