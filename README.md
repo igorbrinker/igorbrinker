@@ -1,4 +1,4 @@
-###🐱‍👤 Welcome, Stranger! 🐱‍👤
+# 🐱‍👤 Welcome, Stranger! 🐱‍👤 #
 
 - 🎓 Almost ending my Bachelor's Degree in Computer Science (about 85%);
 - 📊 Currently Working with Data Science and Websites development for the Real Estate Market;
