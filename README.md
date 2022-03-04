@@ -1,39 +1,31 @@
-# :8ball::man_technologist: 𝗪𝗘𝗟𝗖𝗢𝗠𝗘 𝗧𝗢 𝗠𝗬 𝗣𝗥𝗢𝗙𝗜𝗟𝗘  :man_technologist: :8ball:
+###🐱‍👤 Welcome, Stranger! 🐱‍👤
 
-[![Species](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens)
-[![Status](https://img.shields.io/badge/Status-Stable-success?style=flat-square&logo=gravatar&logoColor=white)](https://en.wikipedia.org/wiki/Life)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-IgorBrinker-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igorbrinker/)
-
-[![Arduino](https://img.shields.io/badge/Arduino-blue?style=flat-square&logo=aRDUINO&logoColor=white)](https://www.arduino.cc/)
-[![Raspberry Pi](https://camo.githubusercontent.com/17b6032a55bb14ed30116823fa500b769a8f4a2f114cebe916284b681f3602ba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52617370626572727925323050692d4335314134413f7374796c653d666c61742d737175617265266c6f676f3d5261737062657272792d5069)](https://www.raspberrypi.org/)
-[![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=Windows&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows)
-[![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
-[![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)                 
-[![DevOps](https://img.shields.io/badge/DevOps-Azure-blue?style=flat-square&logo=windows&Color=white)](https://azure.microsoft.com/pt-br/services/devops/)
-
-[![Python](https://img.shields.io/badge/Language-Python-teal?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/Language-Java-orange?style=flat-square&logo=java&logoColor=white)](https://www.java.com/pt-BR/)
-[![C](https://img.shields.io/badge/Language-C-blue?style=flat-square&logo=C&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![C++](https://img.shields.io/badge/Language-C++-blue?style=flat-square&logo=C&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![JS](https://img.shields.io/badge/Language-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)](https://www.javascript.com/)
-
-[![Django](https://img.shields.io/badge/Framework-Django-green?style=flat-square&logo=Django&logoColor=white)](https://www.djangoproject.com/)
-[![Pandas](https://img.shields.io/badge/Framework-Pandas-purple?style=flat-square&logo=Pandas&logoColor=white)](https://pandas.pydata.org/)
-[![React](https://img.shields.io/badge/Framework-TensorFlow-orange?style=flat-square&logo=tensorflow&logoColor=white)](https://www.djangoproject.com/)
-[![Keras](https://img.shields.io/badge/Framework-Keras-red?style=flat-square&logo=Keras&logoColor=white)](https://keras.io/)
-[![React](https://img.shields.io/badge/Framework-React-blue?style=flat-square&logo=react&logoColor=white)](https://reactnative.dev/)
-[![Redux](https://img.shields.io/badge/Framework-Redux-purple?style=flat-square&logo=redux&logoColor=white)](https://redux.js.org/)
-
-
+- 🎓 Almost ending my Bachelor's Degree in Computer Science (about 85%);
+- 📊 Currently Working with Data Science and Websites development for the Real Estate Market;
+- 🐱‍💻 Big Data is love Big Data is life
 </br>
-
-![Stats](https://github-readme-stats.vercel.app/api?username=igorbrinker&theme=react&show_icons=true) <img border="0" alt="solaire" src="https://github.com/igorbrinker/igorbrinker/blob/main/solaire.gif" width="150" height="160">
+##
+![Stats](https://github-readme-stats.vercel.app/api?username=igorbrinker&theme=react&show_icons=true) <img border="0" alt="solaire" src="https://github.com/igorbrinker/igorbrinker/blob/main/solaire.gif" width="150" height="160">##
 </br></br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorbrinker&layout=compact&theme=react&show_icons=true)
 </br></br>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=igorbrinker)
-
-
+<div style="display: inline_block"><br>
+  <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+  <img align="center" alt="PD" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+  <img align="center" alt="TF" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
+  <img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg">
+  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
+  <img align="center" alt="Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
+  <img align="center" alt="RPY" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">
+  <img align="center" alt="VSC" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+</div>
