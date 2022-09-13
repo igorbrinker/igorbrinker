@@ -1,7 +1,7 @@
 # 🐱‍👤 Welcome, Stranger! 🐱‍👤 #
 
-- 🎓 Almost ending my Bachelor's Degree in Computer Science (about 85%)
-- 📊 Currently Working with Data Science
+- 🎓 Almost ending my Bachelor's Degree in Computer Science (about 88%)
+- 📊 Currently Working as Software Engineer
 - 🐱‍💻 Big Data is love Big Data is life
 </br>
 
