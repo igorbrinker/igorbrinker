@@ -1,8 +1,8 @@
 # 🐱‍👤 Welcome, Stranger! 🐱‍👤 #
 
-- 🎓 Almost ending my Bachelor's Degree in Computer Science (about 95%)
-- 📊 Currently Working as Software Engineer
-- 🐱‍💻 Big Data is love Big Data is life
+- 🎓 Bachelors in Computer Science
+- 📊 Currently Working as Software Engineer and Data Scientist
+- 🐱‍💻 Big data and A.I Enthusiast
 </br>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=igorbrinker&theme=react&show_icons=true)
