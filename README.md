@@ -1,7 +1,8 @@
 # 🐱‍👤 Welcome, Stranger! 🐱‍👤 #
 
 - 🎓 Bachelors in Computer Science
-- 📊 Currently Working as Software Engineer and Data Scientist
+- 🎓 PG in Applied A.I and Machine Learning
+- 📊 Currently Working as Software Engineer
 - 🐱‍💻 Big data and A.I Enthusiast
 </br>
 
