@@ -2,7 +2,7 @@
 
 - 🎓 Bachelors in Computer Science
 - 🎓 PG in Applied A.I and Machine Learning
-- 📊 Currently Working as Software Engineer
+- 📊 Data Engineer
 - 🐱‍💻 Big data and A.I Enthusiast
 </br>
 
